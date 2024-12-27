@@ -4,19 +4,19 @@
     "url": "https://www.yunduankan.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.yunduankan.com.ico",
     "slug": "yunduankan",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2882,
-    "timeDay": 2958,
-    "timeWeek": 2882,
-    "timeMonth": 2882,
-    "timeYear": 2882,
+    "status": "up",
+    "uptime": "99.21%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
+    "time": 2806,
+    "timeDay": 2729,
+    "timeWeek": 2806,
+    "timeMonth": 2806,
+    "timeYear": 2806,
     "dailyMinutesDown": {
-      "2024-12-27": 0
+      "2024-12-27": 32
     }
   },
   {
