@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yunduankan.com.ico",
     "slug": "yunduankan",
     "status": "up",
-    "uptime": "65.45%",
+    "uptime": "65.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.22%",
-    "time": 3373,
-    "timeDay": 179,
-    "timeWeek": 295,
-    "timeMonth": 431,
-    "timeYear": 3454,
+    "uptimeYear": "71.50%",
+    "time": 3364,
+    "timeDay": 242,
+    "timeWeek": 299,
+    "timeMonth": 419,
+    "timeYear": 3444,
     "dailyMinutesDown": {
       "2025-11-18": 195,
       "2025-09-11": 114,
@@ -125,8 +125,7 @@
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
-      "2025-03-05": 1440,
-      "2025-03-04": 1440
+      "2025-03-05": 1440
     }
   },
   {
@@ -141,9 +140,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 252,
-    "timeDay": 316,
-    "timeWeek": 259,
-    "timeMonth": 210,
+    "timeDay": 339,
+    "timeWeek": 241,
+    "timeMonth": 216,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2025-11-18": 185
@@ -159,16 +158,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.94%",
     "time": 405,
-    "timeDay": 288,
-    "timeWeek": 323,
-    "timeMonth": 355,
-    "timeYear": 352,
+    "timeDay": 293,
+    "timeWeek": 316,
+    "timeMonth": 354,
+    "timeYear": 351,
     "dailyMinutesDown": {
       "2025-11-18": 177,
-      "2025-08-27": 17,
-      "2025-03-04": 137
+      "2025-08-27": 17
     }
   }
 ]
