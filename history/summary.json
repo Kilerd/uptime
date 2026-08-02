@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yunduankan.com.ico",
     "slug": "yunduankan",
     "status": "down",
-    "uptime": "57.35%",
+    "uptime": "57.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.51%",
+    "uptimeYear": "72.44%",
     "time": 3123,
     "timeDay": 0,
     "timeWeek": 0,
@@ -23,7 +23,7 @@
       "2025-11-18": 195,
       "2026-03-30": 778,
       "2026-03-29": 955,
-      "2026-08-02": 195,
+      "2026-08-02": 559,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -151,9 +151,9 @@
     "url": "https://www.toodoo.top",
     "icon": "https://icons.duckduckgo.com/ip3/www.toodoo.top.ico",
     "slug": "toodoo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -164,7 +164,8 @@
     "timeYear": 314,
     "dailyMinutesDown": {
       "2025-08-27": 17,
-      "2025-11-18": 177
+      "2025-11-18": 177,
+      "2026-08-02": 0
     }
   }
 ]
